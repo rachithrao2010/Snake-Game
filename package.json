@@ -1,0 +1,11 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "Snake game with hot reload",
+  "scripts": {
+    "start": "live-server public --port=8080 --no-browser"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
